@@ -1,0 +1,8 @@
+{
+    "name": "html-to-docx-vercel",
+    "version": "1.0.0",
+    "main": "api/convert.js",
+    "dependencies": {
+        "docx": "^9.1.0"
+    }
+}
